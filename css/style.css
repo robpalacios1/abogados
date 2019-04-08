@@ -1,0 +1,166 @@
+.main-header{
+	padding: 150px;
+	position: relative;
+	background:url("../image/principal.png");
+	background-size: cover;
+	min-height: 600px;
+}
+
+.main-header .container{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+p{
+	font-size: 25px;
+	text-align: left;
+	font-weight: normal;
+	line-height: 1.2;
+	margin-bottom: 40px;
+	color: white;
+}
+
+
+h2{
+	color: white;
+}
+
+h3{
+	font-size: 25px;
+	color: white;
+}
+
+.container .dollar .fa-dollar-sign{
+	padding-top: 25px;
+	padding: .25em;	
+	position: absolute;
+	overflow: hidden;
+	color: #424242
+	
+}
+
+.fa-dollar-sign{	
+	transform: translate(-120%, 0%);
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	font-size: 100px;
+	color: white;
+	background: white;
+}
+
+.container .precios{
+	font-size: 50px;
+}
+
+.container .dependiendo{
+	font-size: 25px;
+	text-align: left;
+	color: #DBA901;
+}
+
+.container .servicios{
+	font-family: 'Sanchez', serif;
+	padding-top: 30px;
+	font-size: 50px;
+	text-align: center;
+	color: #DBA901;
+}
+
+.container .compilacion{
+	padding-top: 10px;
+	font-size: 17px;
+	text-align: center;
+	color: #0B0B61;
+
+}
+
+.sec .divider{
+	width: 500px;
+ 	border-top: 1px solid #0B0B61;
+ 	margin: 0 auto;
+}
+
+.sec .salud{
+	text-align: center;
+	color: #0B0B61;
+}
+
+.span1{
+	text-align: center;
+	color: #000000;
+}
+
+.sec .laboral{
+	text-align: center;
+	color: #0B0B61;
+}
+
+.span2{
+	text-align: center;
+	color: #000000;
+}
+
+.sec .familia{
+	text-align: center;
+	color: #0B0B61;
+}
+
+
+.span3{
+	text-align: center;
+	color: #000000;
+}
+
+.sec .transito{
+	text-align: center;
+	color: #0B0B61;
+}
+
+.span4{
+	text-align: center;
+	color: #000000;
+}
+
+.sec .consumidor{
+	text-align: center;
+	color: #0B0B61;
+}
+
+.span5{
+	text-align: center;
+	color: #000000;
+}
+
+.sec .cobros{
+	text-align: center;
+	color: #0B0B61;
+}
+
+.span6{
+	text-align: center;
+	color: #000000;
+}
+
+.container .proceso{
+	padding: 30px;
+	font-size: 40px;
+	padding-top: 50px;
+	font-size: 25px;
+	color: #DBA901;
+}
+
+.container .numero{
+	color: white;
+}
+
+.container .footer{
+	font-size: 20px;
+	color: #000000;
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+
